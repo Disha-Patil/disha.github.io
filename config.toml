@@ -1,11 +1,11 @@
 baseURL = "/"
-title = "disha's corner"
+title = "dishashp"
 author = "He Yeshuang"
 copyright = "Copyright © 2008–2019"
 languageCode = "en"
 DefaultContentLanguage = "en"
 hasCJKLanguage=true
-enableInlineShortcodes = true
+enableInlineShortcodes = true 
 footnoteReturnLinkContents = "^"
 disqusShortname = "YOURSHORTNAME"
 googleAnalytics = "UA-FAKE"
